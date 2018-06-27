@@ -1,0 +1,16 @@
+# Run Pytest in Travis CI
+
+# Author: Fan Zhang
+
+language: python
+python:
+
+  - "3.6"
+
+# Install dependencies
+install:
+#  - pip install -r required_dep.txt
+
+# Run pytest
+script:
+  - pytest tests.py -v
