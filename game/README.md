@@ -12,3 +12,5 @@ In this project you will make a Rock, Paper, Scissors game and play against the 
 ## Use python to implement the game play
 ## Write unit tests with pytest
 "Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
+
+[![Build Status](https://travis-ci.org/fanzhangbcit/rock-paper-scisors.svg?branch=master)](https://travis-ci.org/fanzhangbcit/rock-paper-scisors)
