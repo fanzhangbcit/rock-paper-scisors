@@ -13,4 +13,5 @@ install:
 
 # Run pytest
 script:
-  - pytest tests.py -v
+  - pytest ./game/tests.py -v
+  
